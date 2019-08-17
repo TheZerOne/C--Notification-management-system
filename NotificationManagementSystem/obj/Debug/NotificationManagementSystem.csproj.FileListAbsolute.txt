@@ -1,0 +1,12 @@
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\bin\Debug\NotificationManagementSystem.exe.config
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\bin\Debug\NotificationManagementSystem.exe
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\bin\Debug\NotificationManagementSystem.pdb
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.csprojAssemblyReference.cache
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.Form1.resources
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.Properties.Resources.resources
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.csproj.GenerateResource.cache
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.exe
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.pdb
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.PublishNotification.resources
+C:\Users\Satz\Dropbox\Semester2\Programming 3\Assignment\NotificationManagementSystem\NotificationManagementSystem\obj\Debug\NotificationManagementSystem.SubscribeForm.resources
